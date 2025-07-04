@@ -535,17 +535,15 @@ h1 {
     transition: all ease 0.4s;
 }
 .d2c_skill_wrapper ul li span {
-    min-width: 120px;
-    max-width: 150px;
-    min-height: 120px;
-    max-width: 150px;
+    width: 160px;
+    height: 160px;
     background: linear-gradient(180deg, #138086 0%, #062628 100%);
     border-radius: 100%;
     color: var(--accent_color);
     font-family: var(--secondary_font);
     font-size: 23px;
     font-weight: 600;
-    display: inline-block;
+    display: flex;
     justify-content: center;
     align-items: center;
     opacity: 1;
