@@ -522,11 +522,19 @@ h1 {
     list-style-type: none;
     padding-left: 0px;
 } */
+
 .d2c_skill_wrapper ul {
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+    justify-content: center;
+    gap: 30px 30px; /* (gap baris & kolom) */
+}
+
+/* .d2c_skill_wrapper ul {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
-}
+} */
 /* .d2c_skill_wrapper ul li {
     width: 130px;
     height: 130px;
