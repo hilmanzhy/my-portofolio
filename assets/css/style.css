@@ -522,11 +522,6 @@ h1 {
     list-style-type: none;
     padding-left: 0px;
 } */
-
-.d2c_skill_wrapper .container {
-    max-width: 920px; /* Samakan dengan services */
-}
-
 .d2c_skill_wrapper ul {
     display: flex;
     flex-wrap: wrap;         /* Biar bisa pindah baris jika perlu */
@@ -539,7 +534,7 @@ h1 {
     border: 8px solid rgba(17, 116, 121, 0.20);
     border-radius: 100px;
     transition: all ease 0.4s;
-    margin: 0px 10px 10px 0px;
+    margin: 0px 15px 15px 0px;
 }
 .d2c_skill_wrapper ul li:hover {
     border: 10px solid rgba(17, 116, 121, 0.50);
