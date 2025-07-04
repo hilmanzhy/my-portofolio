@@ -522,6 +522,11 @@ h1 {
     list-style-type: none;
     padding-left: 0px;
 } */
+
+.d2c_skill_wrapper .container {
+    max-width: 920px; /* Samakan dengan services */
+}
+
 .d2c_skill_wrapper ul {
     display: flex;
     flex-wrap: wrap;         /* Biar bisa pindah baris jika perlu */
