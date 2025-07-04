@@ -537,7 +537,8 @@ h1 {
 .d2c_skill_wrapper ul li span {
     min-width: 120px;
     max-width: 150px;
-    height: 110px;
+    min-height: 120px;
+    max-width: 150px;
     background: linear-gradient(180deg, #138086 0%, #062628 100%);
     border-radius: 100%;
     color: var(--accent_color);
