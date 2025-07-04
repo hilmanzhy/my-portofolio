@@ -516,7 +516,7 @@ h1 {
 
 /* Skill Section Start */
 .d2c_skill_wrapper p {
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 /* .d2c_skill_wrapper ul {
     list-style-type: none;
@@ -534,7 +534,7 @@ h1 {
     border: 8px solid rgba(17, 116, 121, 0.20);
     border-radius: 100px;
     transition: all ease 0.4s;
-    margin: 0px 22px 22px 0px;
+    margin: 0px 10px 10px 0px;
 }
 .d2c_skill_wrapper ul li:hover {
     border: 10px solid rgba(17, 116, 121, 0.50);
