@@ -811,6 +811,17 @@ h1 {
     font-weight: 700;
     color: var(--primary_color);
 }
+.experience-sidebar {
+    padding-top: 50px;
+}
+
+.experience-content {
+    padding-top: 50px;
+}
+
+.d2c_experience_wrapper .row {
+    align-items: flex-start;
+}
 
 /* Experience Section End */
 
