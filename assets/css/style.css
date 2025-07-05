@@ -603,11 +603,11 @@ h1 {
 }
 .d2c_grid_item:nth-child(2) .fancybox {
     background-image: url(../images/portfolio_two.jpg);
-    height: 500px;
+    height: 290px;
 }
 .d2c_grid_item:nth-child(3) .fancybox {
     background-image: url(../images/portfolio_three.jpg);
-    height: 395px;
+    height: 290px;
 }
 .d2c_grid_item:nth-child(4) .fancybox {
     background-image: url(../images/portfolio_four.jpg);
