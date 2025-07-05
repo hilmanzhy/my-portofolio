@@ -611,11 +611,11 @@ h1 {
 }
 .d2c_grid_items:nth-child(4) .fancybox {
     background-image: url(../images/porto_4.jpeg);
-    height: 395px;
+    height: 290px;
 }
 .d2c_grid_items:nth-child(5) .fancybox {
     background-image: url(../images/porto_5.jpeg);
-    height: 500px;
+    height: 290px;
 }
 .d2c_grid_items:nth-child(6) .fancybox {
     background-image: url(../images/porto_6.png);
