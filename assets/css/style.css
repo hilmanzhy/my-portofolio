@@ -639,6 +639,13 @@ h1 {
 /* Portfolio Section End */
 
 /* Certifications Section Start */
+.d2c_certif_pricing_bg {
+    background-image: url(../images/right_bg_two.png);
+    background-repeat: no-repeat;
+    background-position: right 150px;
+    background-size: 49%;
+}
+
 .d2c_certif_wrapper p {
     margin-bottom: 60px;
 }
