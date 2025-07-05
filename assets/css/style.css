@@ -669,27 +669,27 @@ h1 {
     box-shadow: 4px 4px 15px 0px rgba(24, 28, 49, 0.05);
 }
 .d2c_grid_item:nth-child(1) .fancybox {
-    background-image: url(../images/certif_1.jpg);
+    background-image: url(../images/certif_1.png);
     height: 290px;
 }
 .d2c_grid_item:nth-child(2) .fancybox {
-    background-image: url(../images/certif_2.jpg);
+    background-image: url(../images/certif_2.png);
     height: 290px;
 }
 .d2c_grid_item:nth-child(3) .fancybox {
-    background-image: url(../images/certif_3.jpg);
+    background-image: url(../images/certif_3.png);
     height: 290px;
 }
 .d2c_grid_item:nth-child(4) .fancybox {
-    background-image: url(../images/certif_4.jpg);
+    background-image: url(../images/certif_4.png);
     height: 290px;
 }
 .d2c_grid_item:nth-child(5) .fancybox {
-    background-image: url(../images/certif_5.jpg);
+    background-image: url(../images/certif_5.png);
     height: 290px;
 }
 .d2c_grid_item:nth-child(6) .fancybox {
-    background-image: url(../images/certif_6.jpg);
+    background-image: url(../images/certif_6.png);
     height: 290px;
 }
 .d2c_certif_wrapper img:nth-child(2) {
