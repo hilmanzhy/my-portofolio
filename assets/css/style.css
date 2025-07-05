@@ -597,15 +597,15 @@ h1 {
     border-radius: 6px;
     box-shadow: 4px 4px 15px 0px rgba(24, 28, 49, 0.05);
 }
-.d2c_grid_item:nth-child(1) .fancybox {
+.d2c_grid_items:nth-child(1) .fancybox {
     background-image: url(../images/porto_1.jpg);
     height: 290px;
 }
-.d2c_grid_item:nth-child(2) .fancybox {
+.d2c_grid_items:nth-child(2) .fancybox {
     background-image: url(../images/porto_2.jpg);
     height: 290px;
 }
-.d2c_grid_item:nth-child(3) .fancybox {
+.d2c_grid_items:nth-child(3) .fancybox {
     background-image: url(../images/porto_3.jpg);
     height: 290px;
 }
