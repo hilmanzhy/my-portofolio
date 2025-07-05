@@ -610,15 +610,15 @@ h1 {
     height: 290px;
 }
 .d2c_grid_item:nth-child(4) .fancybox {
-    background-image: url(../images/porto_4.jpg);
+    background-image: url(../images/porto_4.jpeg);
     height: 395px;
 }
 .d2c_grid_item:nth-child(5) .fancybox {
-    background-image: url(../images/porto_5.jpg);
+    background-image: url(../images/porto_5.jpeg);
     height: 500px;
 }
 .d2c_grid_item:nth-child(6) .fancybox {
-    background-image: url(../images/porto_6.jpg);
+    background-image: url(../images/porto_6.png);
     height: 290px;
 }
 .d2c_portfolio_wrapper img:nth-child(2) {
