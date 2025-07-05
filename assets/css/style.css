@@ -598,27 +598,27 @@ h1 {
     box-shadow: 4px 4px 15px 0px rgba(24, 28, 49, 0.05);
 }
 .d2c_grid_item:nth-child(1) .fancybox {
-    background-image: url(../images/portfolio_one.jpg);
+    background-image: url(../images/porto_1.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(2) .fancybox {
-    background-image: url(../images/portfolio_two.jpg);
+    background-image: url(../images/porto_2.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(3) .fancybox {
-    background-image: url(../images/portfolio_three.jpg);
+    background-image: url(../images/porto_3.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(4) .fancybox {
-    background-image: url(../images/portfolio_four.jpg);
+    background-image: url(../images/porto_4.jpg);
     height: 395px;
 }
 .d2c_grid_item:nth-child(5) .fancybox {
-    background-image: url(../images/portfolio_five.jpg);
+    background-image: url(../images/porto_5.jpg);
     height: 500px;
 }
 .d2c_grid_item:nth-child(6) .fancybox {
-    background-image: url(../images/portfolio_six.jpg);
+    background-image: url(../images/porto_6.jpg);
     height: 290px;
 }
 .d2c_portfolio_wrapper img:nth-child(2) {
@@ -669,27 +669,27 @@ h1 {
     box-shadow: 4px 4px 15px 0px rgba(24, 28, 49, 0.05);
 }
 .d2c_grid_item:nth-child(1) .fancybox {
-    background-image: url(../images/certif_one.jpg);
+    background-image: url(../images/certif_1.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(2) .fancybox {
-    background-image: url(../images/certif_two.jpg);
+    background-image: url(../images/certif_2.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(3) .fancybox {
-    background-image: url(../images/certif_three.jpg);
+    background-image: url(../images/certif_3.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(4) .fancybox {
-    background-image: url(../images/certif_four.jpg);
+    background-image: url(../images/certif_4.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(5) .fancybox {
-    background-image: url(../images/certif_five.jpg);
+    background-image: url(../images/certif_5.jpg);
     height: 290px;
 }
 .d2c_grid_item:nth-child(6) .fancybox {
-    background-image: url(../images/certif_six.jpg);
+    background-image: url(../images/certif_6.jpg);
     height: 290px;
 }
 .d2c_certif_wrapper img:nth-child(2) {
