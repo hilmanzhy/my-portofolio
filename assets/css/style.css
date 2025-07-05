@@ -790,6 +790,28 @@ h1 {
     bottom: 220px;
     right: 100px;
 }
+.experience-sidebar ul li a {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--primary_color);
+    display: block;
+    padding: 12px 20px;
+    transition: 0.3s ease;
+}
+
+.experience-sidebar ul li a.active,
+.experience-sidebar ul li a:hover {
+    background-color: rgba(231, 242, 243, 0.5);
+    border-left: 4px solid var(--primary_color);
+    color: var(--secondary_color);
+}
+
+.experience-content h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: var(--primary_color);
+}
+
 /* Experience Section End */
 
 /* Pricing Section Start */
