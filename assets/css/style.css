@@ -812,6 +812,10 @@ h1 {
     color: var(--primary_color);
 }
 
+.experience-content h6 {
+  text-align: justify;
+}
+
 /* Experience Section End */
 
 /* Pricing Section Start */
