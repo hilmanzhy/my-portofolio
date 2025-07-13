@@ -798,6 +798,10 @@ h1 {
     padding: 12px 20px;
     transition: 0.3s ease;
 }
+.experience-sidebar.sticky-top {
+  top: 120px; /* naikkan nilai ini agar tidak tertindih navbar */
+  z-index: 998; /* pastikan di bawah navbar yang biasanya z-index 999 */
+}
 
 .experience-sidebar ul li a.active,
 .experience-sidebar ul li a:hover {
