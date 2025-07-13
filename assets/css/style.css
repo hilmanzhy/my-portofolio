@@ -799,7 +799,7 @@ h1 {
     transition: 0.3s ease;
 }
 .experience-sidebar.sticky-top {
-  top: 140px; /* naikkan nilai ini agar tidak tertindih navbar */
+  top: 160px; /* naikkan nilai ini agar tidak tertindih navbar */
   z-index: 998; /* pastikan di bawah navbar yang biasanya z-index 999 */
 }
 
